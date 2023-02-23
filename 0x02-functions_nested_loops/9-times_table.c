@@ -15,7 +15,7 @@ void time_table(void)
 		_putchar(',');
 		_putchar(' ');
 
-		prod + num * milt;
+		prod + num * mult;
 
 		if (prod <= 9)
 			_putchar(' ');
